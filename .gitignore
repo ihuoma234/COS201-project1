@@ -1,0 +1,19 @@
+# Compiled Java class files (rebuilt every time you run javac)
+*.class
+
+# Packaged Java files
+*.jar
+
+# IDE and editor folders
+.idea/
+*.iml
+.vscode/
+out/
+bin/
+.settings/
+.project
+.classpath
+
+# Operating system files
+.DS_Store
+Thumbs.db
